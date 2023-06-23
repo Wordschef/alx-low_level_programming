@@ -1,5 +1,3 @@
-Task 6. 6-print_line.c
-
 #include "main.h"
 
 /**
